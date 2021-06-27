@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![IMG_20200311_112417](https://user-images.githubusercontent.com/17322344/123545586-6b39e080-d776-11eb-8030-66e172cf97ac.jpeg | width=300)
+<img src=https://user-images.githubusercontent.com/17322344/123545586-6b39e080-d776-11eb-8030-66e172cf97ac.jpeg width=650>
 
 - I am currently working at GitHub India
 - I ❤️ animals 🐕 and birds 🦜
